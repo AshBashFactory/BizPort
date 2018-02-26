@@ -1,0 +1,26 @@
+html{
+	background-color: #334252;
+}
+
+h1{
+	font-size: 50px;
+	font-family: 'Arimo', sans-serif;
+	color: #3DC7BE;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+#words{
+
+  
+    margin: 0;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+}
